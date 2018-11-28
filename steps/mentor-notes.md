@@ -96,8 +96,5 @@ Generally it is good to show you messing around and changing the CSS in dev tool
 - Nice work, now it looks exactly like the design! 
 - Make sure nothing has broken in then desktop version. 
 
-### Bonys Challenge - now try and design and make another layout for a Tablet sized screen!
-
-
 
 
