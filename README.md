@@ -27,6 +27,6 @@ Use Dev Tools to help!
 
 ## The Code Along
 
-Look into the steps folder to find steps 1-10 for how to complete the above challenge, along with [mentor notes](./mentor-notes.md) describing each step.
+Look into the steps folder to find steps 1-11 for how to complete the above challenge, along with [mentor notes](./mentor-notes.md) describing each step.
 
 
