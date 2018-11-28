@@ -1,0 +1,160 @@
+@import "https://fonts.googleapis.com/css?family=Montserrat";
+body {
+  background: #f5f5f5;
+}
+
+.wrap {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+.title {
+  font-family: 'Montserrat';
+  font-size: 24px;
+  line-height: 30px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.container {
+  padding: 10px;
+  margin: 20px 0;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.2);
+  background-color: #fff;
+  height: 300vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.content {
+  color: #fff;
+  background-color: #cccccc;
+  padding: 20px;
+  font-family: 'Montserrat';
+  font-size: calc(1vw + 1em);
+  border:1px red solid;
+
+  margin:10px;
+}
+
+.a-b{
+  display: flex;
+  flex: 1 10%;
+}
+
+.a {
+  flex: 1;
+}
+
+.b {
+  flex: 1 50%; 
+}
+
+.c {
+  flex: 1 5%; 
+}
+
+.d {
+  flex: 1 5%;
+}
+
+.e {
+  flex: 1 10%;
+}
+
+.f {
+  flex: 1%;
+}
+
+.g {
+  flex: 1 15%;
+}
+
+.h {
+  flex: 1 5%; 
+}
+
+.a-b-c-d-e {
+  flex: 1;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.g-h {
+  flex: 1;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.c-d-e {
+  display: flex;
+  flex-direction: column;
+
+  flex: 1 50%;
+}
+
+.c-d {
+  display: flex;
+  flex-direction: column;
+
+  flex: 1 50%
+}
+
+@media (min-width: 768px) {
+  body{
+    color:red;
+  }
+
+  .container {
+    max-height: 70vh;
+    flex-direction: row;
+  }
+
+  .a-b-c-d-e {
+    flex: 1 50%;
+  }
+
+  .c-d-e {
+    flex-direction: row;
+
+    flex: 1 25%;
+  }
+
+  .c-d {
+    flex: 1 25%
+  }
+
+  .g-h {
+    flex: 1 25%;
+
+  }
+
+  .f {
+    flex: 1 25%;
+  }
+
+  .g {
+    flex: 1 60%;
+  }
+  
+  .h {
+    flex: 1 20%; 
+  }
+
+  .a {
+    flex: 1 30%;
+  }
+
+  .b {
+    flex: 1 70%;
+  }
+
+  .e {
+    flex: 1 75%
+  }
+}
