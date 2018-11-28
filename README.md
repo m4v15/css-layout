@@ -22,6 +22,11 @@ Use Dev Tools to help!
 
 <img src='https://raw.githubusercontent.com/m4v15/css-layout/master/desktop.png'>
 
+### Bonus Challenge - now try and design and make another layout for a Tablet sized screen!
+
+
 ## The Code Along
 
 Look into the steps folder to find steps 1-10 for how to complete the above challenge, along with [mentor notes](./mentor-notes.md) describing each step.
+
+
