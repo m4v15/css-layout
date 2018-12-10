@@ -1,5 +1,11 @@
 # CSS Layout Challenge / Code Along
 
+## Aims:
+
+- Understand how to match a desgin, the process of good CSS - **trial and error!**
+- Using dev tools to try things out
+- Get some flex box knowledge
+
 #### learn flexbox by trying to match a design
 
 This workshop is designed to either just be a challenge or a code along that solves that challenge.
